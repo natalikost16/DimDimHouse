@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Hind+Madurai');
+
+:root {
+    font-family: 'Hind Madurai', sans-serif;
+}
+body {
+    max-width: 800px;
+    margin: auto;
+    background-color:#D2B48C;
+    background-position: center;
+}
