@@ -6,9 +6,11 @@
 
 body {
     max-width: 1050px;
+    border: #696969;
     background-color:#E6E6FA;
     background-position: center;
     margin: auto;
+    
 }
 
 header nav {
@@ -79,3 +81,21 @@ div.box {
 div.holiday {
     background-color: #C0C0C0;
 }
+div.footer {
+    background-color: white;
+    width: 1050px; 
+    height: 70px;
+    border: 3px solid #fff;
+    border-radius: 15px;
+    display: inline-block;
+   }
+   div.footer:hover {
+    outline: 2px solid #000;
+   }
+div.box {
+    width: 1050px; 
+    height: 300px;
+    border: 3px solid #fff;
+    border-radius: 15px;
+    display: inline-block;
+   }
